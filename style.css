@@ -1,0 +1,50 @@
+h1 {
+    color:#564787;
+    font-size:2em;
+}
+
+h4{
+    color:#101935;
+    font-weight:bold;
+    font-style:italic;
+    font-size: 1.5em;
+}
+
+h5{
+    font-size:1.6em;
+    line-height:40px;
+}
+
+h6{
+    font-size:1.5em;
+}
+
+ul{
+line-height:40px;
+font-weight: bold;
+font-size:1.6em;
+color:#564787,
+}
+
+ol{
+    font-size:1.5em;
+    line-height:45px;
+}
+
+body{
+    background-color:#DBCBD8;
+}
+
+.tamanhosli1{
+font-size:17px;
+}
+.tamanhosli2{
+    font-size:20px;
+}
+
+.button{
+    padding: 15px 30px;
+    background-color:#9AD4D6;
+    color:#564787;
+    border-radius:none;
+}
